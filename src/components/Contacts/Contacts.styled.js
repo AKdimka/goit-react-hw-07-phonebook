@@ -5,15 +5,7 @@ export const ContactsList = styled.ul`
 `;
 
 export const ListItem = styled.li`
-display: flex;
-flex-direction: row;
-justify-content: space-between;
-
-height: 80px;
-position: relative;
-
 margin-top: 10px;
-border: 1px solid black;
 border-radius: 10px;
 overflow: hidden;
 `;
